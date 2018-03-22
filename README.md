@@ -12,4 +12,4 @@
 
 6. App optimizations and deployment with AWS EC2 and S3
 
-KEEP LEARNING!
+KEEP LEARNING! Thanks a lot to my instructor Max!
